@@ -1,0 +1,37 @@
+05.01.2024 | 6 | nadaSoc | 7777AG | 15B | True
+05.01.2024 | 8 | milena5rovic | 1212AM | 7K | True
+05.01.2024 | 9 | Lenka Nikolic | 6465AF | 6C | True
+05.01.2024 | 10 | lenkaPh | 9119AS | 9E | True
+05.01.2024 | 11 | lenkaPh | 6465AG | 6D | True
+05.01.2024 | 12 | naocarka.strujomerka | 1111AH | 7D | True
+05.01.2024 | 13 | naocarka.strujomerka | 1111AH | 7C | True
+05.01.2024 | 14 | ketty | 7777AI | 6K | True
+05.01.2024 | 16 | Slađana Nikolić | 6465AG | 10A | True
+05.01.2024 | 17 | luka12 | 1111AG | 2E | True
+05.01.2024 | 18 | lenkaPh | 2222AL | 9F | True
+05.01.2024 | 19 | bipolarniMeđed | 1771AK | 15Cc | True
+05.01.2024 | 20 | Vesna Branković | 1771AL | 11F | True
+05.01.2024 | 21 | lenkaPh | 1212AO | 15G | False
+05.01.2024 | 22 | lenkaPh | 1212AO | 15F | True
+05.01.2024 | 23 | luka12 | 7878AC | 4G | True
+05.01.2024 | 24 | Ivan Simić | 2222AJ | 7D | True
+05.01.2024 | 25 | Milan Kaljević | 7878AD | 9E | True
+05.01.2024 | 28 | lenkaPh | 7997AB | 10A | True
+05.01.2024 | 29 | lenkaPh | 7997AB | 10B | True
+05.01.2024 | 30 | lenkaPh | 7997AB | 10C | True
+05.01.2024 | 31 | lenkaPh | 8668AA | 5D | True
+05.01.2024 | 32 | Katarina Radmilović | 8668AA | 5C | True
+05.01.2024 | 33 | Lenka Stošić | 8668AA | 5B | True
+05.01.2024 | 34 | Lena Rafajlović | 8668AA | 5E | True
+05.01.2024 | 35 | lenkaPh | 7878AD | 12C | True
+05.01.2024 | 36 | Ivana Antic | 9191AE | 7D | True
+05.01.2024 | 37 | lenkaPh | 1234AA | 7E | True
+05.01.2024 | 38 | lenkaPh | 2222AK | 5F | True
+05.01.2024 | 39 | ketty | 1771AK | 10Ee | True
+05.01.2024 | 40 | Lenka Stošić | 6465AG | 7C | True
+05.01.2024 | 46 | luka12 | 9595AB | 10H | True
+05.01.2024 | 47 | luka12 | 7777AG | 8G | True
+05.01.2024 | 48 | Emma Watson | 9119AR | 9G | True
+05.01.2024 | 49 | lenkaPh | 6543AJ | 8G | True
+05.01.2024 | 50 | lenkaPh | 6543AJ | 8F | True
+05.01.2024 | 51 | misica | 1212AO | 15G | True

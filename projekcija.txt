@@ -1,0 +1,17 @@
+1111 | A1 | 20:00 | 22:00 | subota, nedelja | 7 | 250.00 | True
+2222 | A2 | 17:30 | 20:00 | ponedeljak, utorak, sreda | 5 | 250.00 | True
+7777 | A3 | 15:00 | 17:00 | sreda, petak | 4 | 200.00 | True
+6543 | A2 | 12:00 | 14:00 | ponedeljak, utorak, petak | 3 | 250.00 | True
+1212 | A3 | 12:00 | 15:00 | ponedeljak, četvrtak, subota, nedelja | 15 | 200.00 | True
+1771 | A4 | 16:30 | 18:30 | sreda, četvrtak, petak | 6 | 250.00 | True
+9119 | A2 | 20:30 | 23:00 | ponedeljak, sreda, petak, subota, nedelja | 13 | 300.00 | True
+6465 | A1 | 18:30 | 21:00 | četvrtak, petak | 2 | 250.00 | True
+7557 | A3 | 20:00 | 23:30 | subota, nedelja | 14 | 300.00 | True
+5555 | A4 | 20:00 | 22:30 | subota, nedelja | 2 | 250.00 | True
+5665 | A1 | 14:00 | 17:00 | petak, subota, nedelja | 17 | 250.00 | True
+7878 | A2 | 20:30 | 23:00 | utorak, četvrtak | 1 | 200.00 | True
+9595 | A3 | 20:00 | 22:30 | četvrtak, petak | 8 | 250.00 | True
+1234 | A2 | 17:00 | 18:30 | petak, subota | 9 | 250.00 | True
+7997 | A3 | 20:00 | 22:00 | ponedeljak, sreda | 11 | 250.00 | True
+9191 | A4 | 20:00 | 22:00 | ponedeljak, sreda, petak | 12 | 250.00 | True
+8668 | A1 | 17:00 | 19:30 | utorak | 17 | 250.00 | False

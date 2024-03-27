@@ -1,0 +1,4 @@
+A1 | Bioskop 85 | 13 | A, B, C, D, E, F
+A2 | Art Bioskop | 20 | A, B, C, D, E, F, G, H, I, J
+A3 | Centar za kulturu | 25 | A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P
+A4 | Cineplexx | 35 | A, Aa, B, Bb, C, Cc, D, Dd, E, Ee, F, Ff, G, Gg, H, Hh, I, Ii, J, Jj, K, Kk, L, Ll

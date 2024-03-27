@@ -1,0 +1,9 @@
+1 | romantična fantazija
+2 | drama
+3 | horor
+4 | misterija
+6 | psihološki horor
+7 | melodrama
+9 | romansa
+10 | komedija
+11 | triler

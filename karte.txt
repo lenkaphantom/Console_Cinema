@@ -1,0 +1,60 @@
+1 | milena5rovic | 7777AA | 7B | 24.12.2023 | rezervisana | False
+2 | bogi13 | 6543AH | 7H | 31.12.2023 | rezervisana | False
+3 | lenkaPh | 7557AC | 15H | 01.01.2024 | rezervisana | False
+4 | lenkaPh | 6465AA | 7E | 01.01.2024 | rezervisana | False
+5 | bogi13 | 2222AE | 10I | 01.01.2024 | rezervisana | False
+6 | nadaSoc | 7777AG | 15B | 05.01.2024 | kupljena | True
+7 | milena5rovic | 9119AR | 15H | 03.01.2024 | rezervisana | False
+8 | milena5rovic | 1212AM | 7K | 05.01.2024 | kupljena | False
+9 | Lenka Nikolic | 6465AF | 6C | 05.01.2024 | kupljena | False
+10 | lenkaPh | 9119AS | 9E | 05.01.2024 | kupljena | True
+11 | lenkaPh | 6465AG | 6D | 05.01.2024 | kupljena | True
+12 | naocarka.strujomerka | 1111AH | 7D | 05.01.2024 | kupljena | True
+13 | naocarka.strujomerka | 1111AH | 7C | 05.01.2024 | kupljena | True
+14 | ketty | 7777AI | 6K | 05.01.2024 | kupljena | True
+15 | naocarka.strujomerka | 6465AF | 7D | 04.01.2024 | rezervisana | False
+16 | Slađana Nikolić | 6465AG | 10A | 05.01.2024 | kupljena | True
+17 | luka12 | 1111AG | 2E | 05.01.2024 | kupljena | True
+18 | lenkaPh | 2222AL | 9F | 05.01.2024 | kupljena | False
+19 | bipolarniMeđed | 1771AK | 15Cc | 05.01.2024 | kupljena | True
+20 | Vesna Branković | 1771AL | 11F | 05.01.2024 | kupljena | True
+21 | lenkaPh | 1212AO | 15G | 05.01.2024 | kupljena | False
+22 | lenkaPh | 1212AO | 15F | 05.01.2024 | kupljena | True
+23 | luka12 | 7878AC | 4G | 05.01.2024 | kupljena | True
+24 | Ivan Simić | 2222AJ | 7D | 05.01.2024 | kupljena | False
+25 | Milan Kaljević | 7878AD | 9E | 05.01.2024 | kupljena | True
+26 | vNikic | 1234AA | 10D | 05.01.2024 | rezervisana | True
+27 | misica | 7777AD | 7H | 05.01.2024 | rezervisana | False
+28 | lenkaPh | 7997AB | 10A | 05.01.2024 | kupljena | True
+29 | lenkaPh | 7997AB | 10B | 05.01.2024 | kupljena | True
+30 | lenkaPh | 7997AB | 10C | 05.01.2024 | kupljena | True
+31 | lenkaPh | 8668AA | 5D | 05.01.2024 | kupljena | False
+32 | Katarina Radmilović | 8668AA | 5C | 05.01.2024 | kupljena | False
+33 | Lenka Stošić | 8668AA | 5B | 05.01.2024 | kupljena | False
+34 | Lena Rafajlović | 8668AA | 5E | 05.01.2024 | kupljena | False
+35 | lenkaPh | 7878AD | 12C | 05.01.2024 | kupljena | True
+36 | Ivana Antic | 9191AE | 7D | 05.01.2024 | kupljena | True
+37 | lenkaPh | 1234AA | 7E | 05.01.2024 | kupljena | True
+38 | lenkaPh | 2222AK | 5F | 05.01.2024 | kupljena | True
+39 | ketty | 1771AK | 10Ee | 05.01.2024 | kupljena | True
+40 | Lenka Stošić | 6465AG | 7C | 05.01.2024 | kupljena | True
+41 | misica | 7557AF | 10F | 06.01.2024 | kupljena | False
+42 | misica | 1234AA | 7F | 05.01.2024 | rezervisana | True
+43 | misica | 1771AM | 10Ff | 05.01.2024 | rezervisana | True
+44 | bogi13 | 7878AA | 13G | 05.01.2024 | rezervisana | False
+45 | bogi13 | 1234AA | 13G | 05.01.2024 | rezervisana | True
+46 | luka12 | 9595AB | 10H | 05.01.2024 | kupljena | True
+47 | luka12 | 7777AG | 8G | 05.01.2024 | kupljena | True
+48 | Emma Watson | 9119AR | 9G | 05.01.2024 | kupljena | True
+49 | lenkaPh | 6543AJ | 8G | 05.01.2024 | kupljena | False
+50 | lenkaPh | 6543AJ | 8F | 05.01.2024 | kupljena | False
+51 | misica | 1212AO | 15G | 05.01.2024 | kupljena | True
+52 | lenkaPh | 1234AC | 7D | 06.01.2024 | kupljena | True
+53 | lenkaPh | 9119AL | 5E | 06.01.2024 | rezervisana | False
+54 | lenkaPh | 9119AL | 5D | 06.01.2024 | rezervisana | False
+55 | misica | 1234AC | 7E | 29.11.2023 | kupljena | False
+56 | lenkaPh | 1212AM | 10F | 07.01.2024 | rezervisana | False
+57 | lenkaPh | 1212AM | 10G | 07.01.2024 | rezervisana | False
+58 | lenkaPh | 9595AA | 7G | 07.01.2024 | rezervisana | True
+59 | Krista Kuglic | 9119AA | 7F | 07.01.2024 | kupljena | False
+60 | lenkaPh | 7557AH | 17J | 17.01.2024 | rezervisana | True

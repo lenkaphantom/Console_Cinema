@@ -1,0 +1,9 @@
+1 | Sjedinjene Američke Države
+2 | Italija
+3 | SR Jugoslavija
+4 | Francuska
+5 | Australija
+6 | Nemačka
+7 | Kina
+9 | Hrvatska
+11 | Srbija
